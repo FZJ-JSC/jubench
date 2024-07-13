@@ -1,7 +1,4 @@
 {
-    "title": "JUPITER Benchmark Suite",
-    "upload_type": "software",
-
     "conference_title": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
     "conference_acronym": "SC24",
     "conference_dates": "17 Nov-22 Nov 2024",
@@ -9,25 +6,4 @@
     "conference_url": "https://sc24.supercomputing.org/",
     "conference_session": "Papers",
     "conference_session_part": "Leadership-class Supercomputers",
-
-    "related_identifiers": [
-        {
-            "relation": "isDescribedBy",
-            "identifier": "PAPERDOI",
-            "scheme": "doi",
-            "resource_type": "publication-article"
-        },
-        {
-            "relation": "isSupplementTo",
-            "identifier": "PAPERDOI",
-            "scheme": "doi",
-            "resource_type": "publication-article"
-        },
-        {
-            "relation": "compiles",
-            "identifier": "ARBORDOI",
-            "scheme": "doi",
-            "resource_type": "software"
-        }
-    ],
 }
