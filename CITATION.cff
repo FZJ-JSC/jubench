@@ -131,6 +131,7 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.12737073
+    description: Base Zenodo identifier (version-independent)
 repository-code: 'https://github.com/FZJ-JSC/jubench/'
 license: MIT
 date-released: '2024-07-13'
