@@ -5,7 +5,7 @@
             "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
             "name": "Herten, Andreas"
         },
-
+    ],
     "title": "JUPITER Benchmark Suite",
     "upload_type": "software",
 
@@ -26,25 +26,4 @@
     "conference_url": "https://sc24.supercomputing.org/",
     "conference_session": "Papers",
     "conference_session_part": "Leadership-class Supercomputers",
-
-    "related_identifiers": [
-        {
-            "relation": "isDescribedBy",
-            "identifier": "PAPERDOI",
-            "scheme": "doi",
-            "resource_type": "publication-article"
-        },
-        {
-            "relation": "isSupplementTo",
-            "identifier": "PAPERDOI",
-            "scheme": "doi",
-            "resource_type": "publication-article"
-        },
-        {
-            "relation": "compiles",
-            "identifier": "ARBORDOI",
-            "scheme": "doi",
-            "resource_type": "software"
-        }
-    ],
 }
