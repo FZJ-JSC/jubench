@@ -9,21 +9,7 @@
     "title": "JUPITER Benchmark Suite",
     "upload_type": "software",
 
-    "publication_date": "2024-07-01",
+    "publication_date": "2024-07-13",
 
-    "description": "The JUPITER Benchmark Suite assembles a number of application and synthetic benchmarks with detailed instructions for compilation, execution, and evaluation. It was developed on the JUWELS Booster system at Jülich Supercomputing Centre, Germany, and used for the procurement of the JUPITER Exascale supercomputer.",
-
-    "notes": "This repository accompanies a paper published at SC24, titled 'Application-Driven Exascale: The JUPITER Benchmark Suite'",
-    "language": "eng",
-
-    "access_right": "open",
-    "license": "MIT",
-
-    "conference_title": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
-    "conference_acronym": "SC24",
-    "conference_dates": "17 Nov-22 Nov 2024",
-    "conference_place": "Atlanta, GA, USA",
-    "conference_url": "https://sc24.supercomputing.org/",
-    "conference_session": "Papers",
-    "conference_session_part": "Leadership-class Supercomputers",
+    "description": "The JUPITER Benchmark Suite assembles a number of application and synthetic benchmarks with detailed instructions for compilation, execution, and evaluation. It was developed on the JUWELS Booster system at Jülich Supercomputing Centre, Germany, and used for the procurement of the JUPITER Exascale supercomputer."
 }
