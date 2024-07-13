@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: JUPITER Benchmark Suite
+message: >-
+  If you use this benchmark suite, either cite it directly or the accompanying SC24 paper 
+authors:
+  - given-names: Andreas
+    family-names: Herten
+    email: a.herten@fz-juelich.de
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: 'https://orcid.org/0000-0002-7150-2505'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.5745504
+    description: Version-agnostic Zenodo Identifier
+repository-code: 'https://github.com/FZJ-JSC/jubench/'
+abstract: >-
+  TBD
+keywords:
+  - TBD
+license: MIT
+date-released: '2024-07-01'
