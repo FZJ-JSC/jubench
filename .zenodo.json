@@ -6,6 +6,10 @@
             "name": "Herten, Andreas"
         }
     ],
+    "title": "JUPITER Benchmark Suite",
+    "upload_type": "software",
+
+    "publication_date": "2024-07-01",
 
     "description": "The JUPITER Benchmark Suite assembles a number of application and synthetic benchmarks with detailed instructions for compilation, execution, and evaluation. It was developed on the JUWELS Booster system at Jülich Supercomputing Centre, Germany, and used for the procurement of the JUPITER Exascale supercomputer.",
 
@@ -21,5 +25,26 @@
     "conference_place": "Atlanta, GA, USA",
     "conference_url": "https://sc24.supercomputing.org/",
     "conference_session": "Papers",
-    "conference_session_part": "Leadership-class Supercomputers"
+    "conference_session_part": "Leadership-class Supercomputers",
+
+    "related_identifiers": [
+        {
+            "relation": "isDescribedBy",
+            "identifier": "PAPERDOI",
+            "scheme": "doi",
+            "resource_type": "publication-article"
+        },
+        {
+            "relation": "isSupplementTo",
+            "identifier": "PAPERDOI",
+            "scheme": "doi",
+            "resource_type": "publication-article"
+        },
+        {
+            "relation": "compiles",
+            "identifier": "ARBORDOI",
+            "scheme": "doi",
+            "resource_type": "software"
+        }
+    ]
 }
