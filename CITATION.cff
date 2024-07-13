@@ -8,6 +8,129 @@ authors:
     email: a.herten@fz-juelich.de
     affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0002-7150-2505'
+  - given-names: Sebastian 
+    family-names: Achilles
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-1943-6803'
+  - given-names: Damian 
+    family-names: Alvarez
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-8455-3598'
+  - given-names: Jayesh 
+    family-names: Badwaik
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-5252-8179'
+  - given-names: Eric 
+    family-names: Behle
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0001-6616-8867'
+  - given-names: Mathis 
+    family-names: Bode
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0001-9922-9742'
+  - given-names: Thomas 
+    family-names: Breuer
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-3979-4795'
+  - given-names: Daniel 
+    family-names: Caviedes-Voullième
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0001-7871-7544'
+  - given-names: Mehdi 
+    family-names: Cherti
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0001-5865-0469'
+  - given-names: Adel 
+    family-names: Dabah
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0001-9175-469X'
+  - given-names: Salem El 
+    family-names: Sayed
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-7217-6027'
+  - given-names: Wolfgang 
+    family-names: Frings
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-9463-9264'
+  - given-names: Ana 
+    family-names: Gonzalez-Nicolas
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-2869-8255'
+  - given-names: Eric B. 
+    family-names: Gregory
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0001-9408-5719'
+  - given-names: Kaveh  
+    family-names: Haghighi Mood
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-8578-4961'
+  - given-names: Thorsten 
+    family-names: Hater
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-6249-7169'
+  - given-names: Jenia 
+    family-names: Jitsev
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-1221-7851'
+  - given-names: Chelsea 
+    family-names: John
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-3777-7393'
+  - given-names: Jan H. 
+    family-names: Meinke
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-2831-9761'
+  - given-names: Catrin I. 
+    family-names: Meyer
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-9271-6174'
+  - given-names: Pavel 
+    family-names: Mezentsev
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0009-0000-4114-5482'
+  - given-names: Jan-Oliver 
+    family-names: Mirus
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0009-0006-7975-1393'
+  - given-names: Stepan 
+    family-names: Nassyr
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-0035-244X'
+  - given-names: Carolin 
+    family-names: Penke
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-4043-3885'
+  - given-names: Manoel 
+    family-names: Römmer
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0009-0007-3513-5932'
+  - given-names: Ujjwal 
+    family-names: Sinha
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-4609-0940'
+  - given-names: Benedikt
+    family-names: von St. Vieth
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-5386-633X'
+  - given-names: Olaf 
+    family-names: Stein
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0002-6684-7103'
+  - given-names: Estela 
+    family-names: Suarez
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-0748-7264'
+  - given-names: Dennis 
+    family-names: Willsch
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-3855-5100'
+  - given-names: Ilya 
+    family-names: Zhukov
+    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    orcid: '0000-0003-4650-3773'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12737073
 repository-code: 'https://github.com/FZJ-JSC/jubench/'
 license: MIT
 date-released: '2024-07-13'

@@ -4,6 +4,156 @@
             "orcid": "0000-0002-7150-2505",
             "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
             "name": "Herten, Andreas"
+        },
+        {
+            "name": "Sebastian Achilles",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-1943-6803"
+        },
+        {
+            "name": "Damian Alvarez",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-8455-3598"
+        },
+        {
+            "name": "Jayesh Badwaik",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-5252-8179"
+        },
+        {
+            "name": "Eric Behle",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0001-6616-8867"
+        },
+        {
+            "name": "Mathis Bode",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0001-9922-9742"
+        },
+        {
+            "name": "Thomas Breuer",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-3979-4795"
+        },
+        {
+            "name": "Daniel Caviedes-Voullième",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0001-7871-7544"
+        },
+        {
+            "name": "Mehdi Cherti",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0001-5865-0469"
+        },
+        {
+            "name": "Adel Dabah",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0001-9175-469X"
+        },
+        {
+            "name": "Salem El Sayed",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-7217-6027"
+        },
+        {
+            "name": "Wolfgang Frings",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-9463-9264"
+        },
+        {
+            "name": "Ana Gonzalez-Nicolas",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-2869-8255"
+        },
+        {
+            "name": "Eric B. Gregory",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0001-9408-5719"
+        },
+        {
+            "name": "Kaveh Haghighi Mood",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-8578-4961"
+        },
+        {
+            "name": "Thorsten Hater",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-6249-7169"
+        },
+        {
+            "name": "Jenia Jitsev",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-1221-7851"
+        },
+        {
+            "name": "Chelsea John",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-3777-7393"
+        },
+        {
+            "name": "Jan H. Meinke",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-2831-9761"
+        },
+        {
+            "name": "Catrin I. Meyer",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-9271-6174"
+        },
+        {
+            "name": "Pavel Mezentsev",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0009-0000-4114-5482"
+        },
+        {
+            "name": "Jan-Oliver Mirus",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0009-0006-7975-1393"
+        },
+        {
+            "name": "Stepan Nassyr",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-0035-244X"
+        },
+        {
+            "name": "Carolin Penke",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-4043-3885"
+        },
+        {
+            "name": "Manoel Römmer",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0009-0007-3513-5932"
+        },
+        {
+            "name": "Ujjwal Sinha",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-4609-0940"
+        },
+        {
+            "name": "Benedikt von St. Vieth",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-5386-633X"
+        },
+        {
+            "name": "Olaf Stein",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0002-6684-7103"
+        },
+        {
+            "name": "Estela Suarez",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-0748-7264"
+        },
+        {
+            "name": "Dennis Willsch",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-3855-5100"
+        },
+        {
+            "name": "Ilya Zhukov",
+            "affiliation": "Forschungszentrum Jülich, Jülich Supercomputing Centre",
+            "orcid": "0000-0003-4650-3773"
         }
     ],
     "title": "JUPITER Benchmark Suite",
