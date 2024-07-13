@@ -4,3 +4,12 @@
 [submodule "jubench-arbor"]
 	path = jubench-arbor
 	url = https://github.com/FZJ-JSC/jubench-arbor.git
+[submodule "jubench-amber"]
+	path = jubench-amber
+	url = https://github.com/FZJ-JSC/jubench-amber
+[submodule "jubench-chroma-qcd"]
+	path = jubench-chroma-qcd
+	url = https://github.com/FZJ-JSC/jubench-chroma-qcd
+[submodule "jubench-dynqcd"]
+	path = jubench-dynqcd
+	url = https://github.com/FZJ-JSC/jubench-dynqcd
