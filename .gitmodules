@@ -1,3 +1,6 @@
 [submodule "jubench-stream-gpu"]
 	path = jubench-stream-gpu
 	url = https://github.com/FZJ-JSC/jubench-stream-gpu.git
+[submodule "jubench-arbor"]
+	path = jubench-arbor
+	url = https://github.com/FZJ-JSC/jubench-arbor.git

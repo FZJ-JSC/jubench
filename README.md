@@ -8,4 +8,5 @@ This is WIP!
 
 Currently added benchmarks
 
-* [jubench-stream-gpu](https://github.com/FZJ-JSC/jubench-stream-gpu)
+* [Arbor](https://github.com/FZJ-JSC/jubench-arbor.git)
+* [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)
