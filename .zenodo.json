@@ -1,9 +1,4 @@
 {
-    "conference_title": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
-    "conference_acronym": "SC24",
-    "conference_dates": "17 Nov-22 Nov 2024",
-    "conference_place": "Atlanta, GA, USA",
-    "conference_url": "https://sc24.supercomputing.org/",
-    "conference_session": "Papers",
-    "conference_session_part": "Leadership-class Supercomputers",
+    "conference_title": "The International Conference for High Performance Computing, Networking, Storage, and Analysis"
 }
+
