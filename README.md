@@ -23,4 +23,5 @@ Currently added benchmarks
 * [ResNet](https://github.com/FZJ-JSC/jubench-resnet) [![DOI](https://zenodo.org/badge/831446381.svg)](https://zenodo.org/badge/latestdoi/831446381)
 * [SOMA](https://github.com/FZJ-JSC/jubench-soma) [![DOI](https://zenodo.org/badge/831455342.svg)](https://zenodo.org/badge/latestdoi/831455342)
 * [DynQCD](https://github.com/FZJ-JSC/jubench-dynqcd) [![DOI](https://zenodo.org/badge/828238689.svg)](https://zenodo.org/badge/latestdoi/828238689)
+* [NAStJA](https://github.com/FZJ-JSC/jubench-nastja) [![DOI](https://zenodo.org/badge/831459311.svg)](https://zenodo.org/badge/latestdoi/831459311)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)

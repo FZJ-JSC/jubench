@@ -46,3 +46,6 @@
 [submodule "jubench-soma"]
 	path = jubench-soma
 	url = https://github.com/FZJ-JSC/jubench-soma
+[submodule "jubench-nastja"]
+	path = jubench-nastja
+	url = https://github.com/FZJ-JSC/jubench-nastja
