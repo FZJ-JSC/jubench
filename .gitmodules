@@ -13,3 +13,6 @@
 [submodule "jubench-dynqcd"]
 	path = jubench-dynqcd
 	url = https://github.com/FZJ-JSC/jubench-dynqcd
+[submodule "jubench-gromacs"]
+	path = jubench-gromacs
+	url = https://github.com/FZJ-JSC/jubench-gromacs
