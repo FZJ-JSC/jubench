@@ -22,3 +22,6 @@
 [submodule "jubench-juqcs"]
 	path = jubench-juqcs
 	url = https://github.com/FZJ-JSC/jubench-juqcs
+[submodule "jubench-megatron-lm"]
+	path = jubench-megatron-lm
+	url = https://github.com/FZJ-JSC/jubench-megatron-lm
