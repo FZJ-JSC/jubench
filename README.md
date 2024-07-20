@@ -18,5 +18,6 @@ Currently added benchmarks
 * [MMoCLIP](https://github.com/FZJ-JSC/jubench-mmoclip) [![DOI](https://zenodo.org/badge/831410928.svg)](https://zenodo.org/badge/latestdoi/831410928)
 * [nekRS](https://github.com/FZJ-JSC/jubench-nekrs) [![DOI](https://zenodo.org/badge/831414161.svg)](https://zenodo.org/badge/latestdoi/831414161)
 * [ParFlow](https://github.com/FZJ-JSC/jubench-parflow) [![DOI](https://zenodo.org/badge/831431317.svg)](https://zenodo.org/badge/latestdoi/831431317)
+* [PIConGPU](https://github.com/FZJ-JSC/jubench-picongpu) [![DOI](https://zenodo.org/badge/831436727.svg)](https://zenodo.org/badge/latestdoi/831436727)
 * [DynQCD](https://github.com/FZJ-JSC/jubench-dynqcd) [![DOI](https://zenodo.org/badge/828238689.svg)](https://zenodo.org/badge/latestdoi/828238689)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)

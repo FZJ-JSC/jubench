@@ -34,3 +34,6 @@
 [submodule "jubench-parflow"]
 	path = jubench-parflow
 	url = https://github.com/FZJ-JSC/jubench-parflow
+[submodule "jubench-picongpu"]
+	path = jubench-picongpu
+	url = https://github.com/FZJ-JSC/jubench-picongpu
