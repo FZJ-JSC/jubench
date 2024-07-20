@@ -64,3 +64,6 @@
 [submodule "jubench-linktest"]
 	path = jubench-linktest
 	url = https://github.com/FZJ-JSC/jubench-linktest
+[submodule "jubench-osu"]
+	path = jubench-osu
+	url = https://github.com/FZJ-JSC/jubench-osu
