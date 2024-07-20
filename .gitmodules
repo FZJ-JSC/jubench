@@ -16,3 +16,6 @@
 [submodule "jubench-gromacs"]
 	path = jubench-gromacs
 	url = https://github.com/FZJ-JSC/jubench-gromacs
+[submodule "jubench-icon"]
+	path = jubench-icon
+	url = https://github.com/FZJ-JSC/jubench-icon
