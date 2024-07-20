@@ -58,3 +58,6 @@
 [submodule "jubench-hpl"]
 	path = jubench-hpl
 	url = https://github.com/FZJ-JSC/jubench-hpl
+[submodule "jubench-ior"]
+	path = jubench-ior
+	url = https://github.com/FZJ-JSC/jubench-ior

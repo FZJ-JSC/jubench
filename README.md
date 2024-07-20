@@ -27,4 +27,5 @@ Currently added benchmarks
 * [Graph500](https://github.com/FZJ-JSC/jubench-graph500) [![DOI](https://zenodo.org/badge/831462825.svg)](https://zenodo.org/badge/latestdoi/831462825)
 * [HPCG](https://github.com/FZJ-JSC/jubench-hpcg) [![DOI](https://zenodo.org/badge/831465063.svg)](https://zenodo.org/badge/latestdoi/831465063)
 * [HPL](https://github.com/FZJ-JSC/jubench-hpl) [![DOI](https://zenodo.org/badge/831467677.svg)](https://zenodo.org/badge/latestdoi/831467677)
+* [IOR](https://github.com/FZJ-JSC/jubench-ior) [![DOI](https://zenodo.org/badge/831374575.svg)](https://zenodo.org/badge/latestdoi/831374575)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)
