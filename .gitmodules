@@ -37,3 +37,6 @@
 [submodule "jubench-picongpu"]
 	path = jubench-picongpu
 	url = https://github.com/FZJ-JSC/jubench-picongpu
+[submodule "jubench-qe"]
+	path = jubench-qe
+	url = https://github.com/FZJ-JSC/jubench-qe

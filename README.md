@@ -19,5 +19,6 @@ Currently added benchmarks
 * [nekRS](https://github.com/FZJ-JSC/jubench-nekrs) [![DOI](https://zenodo.org/badge/831414161.svg)](https://zenodo.org/badge/latestdoi/831414161)
 * [ParFlow](https://github.com/FZJ-JSC/jubench-parflow) [![DOI](https://zenodo.org/badge/831431317.svg)](https://zenodo.org/badge/latestdoi/831431317)
 * [PIConGPU](https://github.com/FZJ-JSC/jubench-picongpu) [![DOI](https://zenodo.org/badge/831436727.svg)](https://zenodo.org/badge/latestdoi/831436727)
+* [Quantum ESPRESSO](https://github.com/FZJ-JSC/jubench-qe) [![DOI](https://zenodo.org/badge/831440044.svg)](https://zenodo.org/badge/latestdoi/831440044)
 * [DynQCD](https://github.com/FZJ-JSC/jubench-dynqcd) [![DOI](https://zenodo.org/badge/828238689.svg)](https://zenodo.org/badge/latestdoi/828238689)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)
