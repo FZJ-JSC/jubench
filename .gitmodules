@@ -67,3 +67,6 @@
 [submodule "jubench-osu"]
 	path = jubench-osu
 	url = https://github.com/FZJ-JSC/jubench-osu
+[submodule "jubench-stream"]
+	path = jubench-stream
+	url = https://github.com/FZJ-JSC/jubench-stream

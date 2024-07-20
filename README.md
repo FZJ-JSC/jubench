@@ -30,4 +30,5 @@ Currently added benchmarks
 * [IOR](https://github.com/FZJ-JSC/jubench-ior) [![DOI](https://zenodo.org/badge/831374575.svg)](https://zenodo.org/badge/latestdoi/831374575)
 * [LinkTest](https://github.com/FZJ-JSC/jubench-linktest) [![DOI](https://zenodo.org/badge/831473605.svg)](https://zenodo.org/badge/latestdoi/831473605)
 * [OSU Micro-Benchmarks](https://github.com/FZJ-JSC/jubench-osu) [![DOI](https://zenodo.org/badge/831476579.svg)](https://zenodo.org/badge/latestdoi/831476579)
-* [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)
+* [STREAM](https://github.com/FZJ-JSC/jubench-stream) [![DOI](https://zenodo.org/badge/831481274.svg)](https://zenodo.org/badge/latestdoi/831481274)
+* [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu) [![DOI](https://zenodo.org/badge/764628707.svg)](https://zenodo.org/badge/latestdoi/764628707)
