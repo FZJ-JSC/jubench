@@ -16,5 +16,6 @@ Currently added benchmarks
 * [JUQCS](https://github.com/FZJ-JSC/jubench-icon) [![DOI](https://zenodo.org/badge/831390044.svg)](https://zenodo.org/badge/latestdoi/831390044)
 * [Megatron-LM](https://github.com/FZJ-JSC/jubench-megatron-lm) [![DOI](https://zenodo.org/badge/831394735.svg)](https://zenodo.org/badge/latestdoi/831394735)
 * [MMoCLIP](https://github.com/FZJ-JSC/jubench-mmoclip) [![DOI](https://zenodo.org/badge/831410928.svg)](https://zenodo.org/badge/latestdoi/831410928)
+* [nekRS](https://github.com/FZJ-JSC/jubench-nekrs) [![DOI](https://zenodo.org/badge/831414161.svg)](https://zenodo.org/badge/latestdoi/831414161)
 * [DynQCD](https://github.com/FZJ-JSC/jubench-dynqcd) [![DOI](https://zenodo.org/badge/828238689.svg)](https://zenodo.org/badge/latestdoi/828238689)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)

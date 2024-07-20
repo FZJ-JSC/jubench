@@ -28,3 +28,6 @@
 [submodule "jubench-mmoclip"]
 	path = jubench-mmoclip
 	url = https://github.com/FZJ-JSC/jubench-mmoclip
+[submodule "jubench-nekrs"]
+	path = jubench-nekrs
+	url = https://github.com/FZJ-JSC/jubench-nekrs
