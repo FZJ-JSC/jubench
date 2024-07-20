@@ -25,3 +25,6 @@
 [submodule "jubench-megatron-lm"]
 	path = jubench-megatron-lm
 	url = https://github.com/FZJ-JSC/jubench-megatron-lm
+[submodule "jubench-mmoclip"]
+	path = jubench-mmoclip
+	url = https://github.com/FZJ-JSC/jubench-mmoclip
