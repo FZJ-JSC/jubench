@@ -49,3 +49,6 @@
 [submodule "jubench-nastja"]
 	path = jubench-nastja
 	url = https://github.com/FZJ-JSC/jubench-nastja
+[submodule "jubench-graph500"]
+	path = jubench-graph500
+	url = https://github.com/FZJ-JSC/jubench-graph500
