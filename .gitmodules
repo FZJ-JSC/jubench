@@ -43,3 +43,6 @@
 [submodule "jubench-resnet"]
 	path = jubench-resnet
 	url = https://github.com/FZJ-JSC/jubench-resnet
+[submodule "jubench-soma"]
+	path = jubench-soma
+	url = https://github.com/FZJ-JSC/jubench-soma

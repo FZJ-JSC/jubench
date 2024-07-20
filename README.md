@@ -21,5 +21,6 @@ Currently added benchmarks
 * [PIConGPU](https://github.com/FZJ-JSC/jubench-picongpu) [![DOI](https://zenodo.org/badge/831436727.svg)](https://zenodo.org/badge/latestdoi/831436727)
 * [Quantum ESPRESSO](https://github.com/FZJ-JSC/jubench-qe) [![DOI](https://zenodo.org/badge/831440044.svg)](https://zenodo.org/badge/latestdoi/831440044)
 * [ResNet](https://github.com/FZJ-JSC/jubench-resnet) [![DOI](https://zenodo.org/badge/831446381.svg)](https://zenodo.org/badge/latestdoi/831446381)
+* [SOMA](https://github.com/FZJ-JSC/jubench-soma) [![DOI](https://zenodo.org/badge/831455342.svg)](https://zenodo.org/badge/latestdoi/831455342)
 * [DynQCD](https://github.com/FZJ-JSC/jubench-dynqcd) [![DOI](https://zenodo.org/badge/828238689.svg)](https://zenodo.org/badge/latestdoi/828238689)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)
