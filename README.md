@@ -4,9 +4,7 @@
 
 This is the meta-repository for the JUPITER Benchmark Suite, accompanying the same-titled SC24 paper. Each individual benchmark is located in its own repository, which is included here as a submodule.
 
-This is WIP!
-
-Currently added benchmarks
+The included benchmarks, linking to their respective modules, are:
 
 * [Arbor](https://github.com/FZJ-JSC/jubench-arbor) [![DOI](https://zenodo.org/badge/828211506.svg)](https://zenodo.org/badge/latestdoi/828211506) 
 * [Amber](https://github.com/FZJ-JSC/jubench-amber) [![DOI](https://zenodo.org/badge/828224087.svg)](https://zenodo.org/badge/latestdoi/828224087)
