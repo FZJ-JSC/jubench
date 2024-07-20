@@ -55,3 +55,6 @@
 [submodule "jubench-hpcg"]
 	path = jubench-hpcg
 	url = https://github.com/FZJ-JSC/jubench-hpcg
+[submodule "jubench-hpl"]
+	path = jubench-hpl
+	url = https://github.com/FZJ-JSC/jubench-hpl

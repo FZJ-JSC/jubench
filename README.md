@@ -26,4 +26,5 @@ Currently added benchmarks
 * [NAStJA (GPU)](https://github.com/FZJ-JSC/jubench-nastja) [![DOI](https://zenodo.org/badge/831459311.svg)](https://zenodo.org/badge/latestdoi/831459311)
 * [Graph500](https://github.com/FZJ-JSC/jubench-graph500) [![DOI](https://zenodo.org/badge/831462825.svg)](https://zenodo.org/badge/latestdoi/831462825)
 * [HPCG](https://github.com/FZJ-JSC/jubench-hpcg) [![DOI](https://zenodo.org/badge/831465063.svg)](https://zenodo.org/badge/latestdoi/831465063)
+* [HPL](https://github.com/FZJ-JSC/jubench-hpl) [![DOI](https://zenodo.org/badge/831467677.svg)](https://zenodo.org/badge/latestdoi/831467677)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)
