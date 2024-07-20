@@ -40,3 +40,6 @@
 [submodule "jubench-qe"]
 	path = jubench-qe
 	url = https://github.com/FZJ-JSC/jubench-qe
+[submodule "jubench-resnet"]
+	path = jubench-resnet
+	url = https://github.com/FZJ-JSC/jubench-resnet
