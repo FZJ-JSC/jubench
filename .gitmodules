@@ -31,3 +31,6 @@
 [submodule "jubench-nekrs"]
 	path = jubench-nekrs
 	url = https://github.com/FZJ-JSC/jubench-nekrs
+[submodule "jubench-parflow"]
+	path = jubench-parflow
+	url = https://github.com/FZJ-JSC/jubench-parflow
