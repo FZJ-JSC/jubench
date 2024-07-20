@@ -19,3 +19,6 @@
 [submodule "jubench-icon"]
 	path = jubench-icon
 	url = https://github.com/FZJ-JSC/jubench-icon
+[submodule "jubench-juqcs"]
+	path = jubench-juqcs
+	url = https://github.com/FZJ-JSC/jubench-juqcs
