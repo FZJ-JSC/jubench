@@ -25,4 +25,5 @@ Currently added benchmarks
 * [DynQCD (CPU)](https://github.com/FZJ-JSC/jubench-dynqcd) [![DOI](https://zenodo.org/badge/828238689.svg)](https://zenodo.org/badge/latestdoi/828238689)
 * [NAStJA (GPU)](https://github.com/FZJ-JSC/jubench-nastja) [![DOI](https://zenodo.org/badge/831459311.svg)](https://zenodo.org/badge/latestdoi/831459311)
 * [Graph500](https://github.com/FZJ-JSC/jubench-graph500) [![DOI](https://zenodo.org/badge/831462825.svg)](https://zenodo.org/badge/latestdoi/831462825)
+* [HPCG](https://github.com/FZJ-JSC/jubench-hpcg) [![DOI](https://zenodo.org/badge/831465063.svg)](https://zenodo.org/badge/latestdoi/831465063)
 * [STREAM (GPU)](https://github.com/FZJ-JSC/jubench-stream-gpu)

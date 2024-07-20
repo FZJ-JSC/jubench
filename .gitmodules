@@ -52,3 +52,6 @@
 [submodule "jubench-graph500"]
 	path = jubench-graph500
 	url = https://github.com/FZJ-JSC/jubench-graph500
+[submodule "jubench-hpcg"]
+	path = jubench-hpcg
+	url = https://github.com/FZJ-JSC/jubench-hpcg
