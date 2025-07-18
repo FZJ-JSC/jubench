@@ -1,8 +1,11 @@
 # JUPITER Benchmark Suite
 
-[![DOI](https://zenodo.org/badge/764615316.svg)](https://zenodo.org/badge/latestdoi/764615316)
+[![DOI](https://zenodo.org/badge/764615316.svg)](https://zenodo.org/badge/latestdoi/764615316) [![Paper](https://img.shields.io/badge/SC24%20Paper-FAA41A?logo=ieee&logoSize=auto&labelColor=0060df)](https://doi.ieeecomputersociety.org/10.1109/SC41406.2024.00038)
 
-This is the meta-repository for the JUPITER Benchmark Suite, accompanying the same-titled SC24 paper. Each individual benchmark is located in its own repository, which is included here as a submodule.
+
+This is the meta-repository for the JUPITER Benchmark Suite, accompanying the paper [_Application-Driven Exascale: The JUPITER Benchmark Suite_](https://doi.ieeecomputersociety.org/10.1109/SC41406.2024.00038), published in the SC24 proceedings (DOI 10.1109/SC41406.2024.00038). Each individual benchmark is located in its own repository, which is included here as a submodule.
+
+When cloning the whole repository, remember to recurse submodules (if that is your intention, that is).
 
 The included benchmarks, linking to their respective modules, are:
 

@@ -178,6 +178,12 @@
     "conference_session_part": "Leadership-class Supercomputers",
     "related_identifiers": [
         {
+            "relation": "isSuplementTo",
+            "identifier": "10.1109/SC41406.2024.00038",
+            "scheme": "doi",
+            "resource_type": "publication-article"
+        },
+        {
             "relation": "compiles",
             "identifier": "10.5281/zenodo.12737559",
             "scheme": "doi",

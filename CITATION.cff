@@ -1,137 +1,159 @@
 cff-version: 1.2.0
 title: JUPITER Benchmark Suite
 message: >-
-  If you use this benchmark suite, please cite it via the Zenodo DOI and the accompanying SC24 paper 
+  If you use this benchmark suite, please cite it via the
+  Zenodo DOI and the accompanying SC24 paper at
+  https://doi.ieeecomputersociety.org/10.1109/SC41406.2024.00038
+type: software
 authors:
   - given-names: Andreas
     family-names: Herten
     email: a.herten@fz-juelich.de
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
     orcid: 'https://orcid.org/0000-0002-7150-2505'
-  - given-names: Sebastian 
+  - given-names: Sebastian
     family-names: Achilles
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-1943-6803'
-  - given-names: Damian 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-1943-6803'
+  - given-names: Damian
     family-names: Alvarez
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-8455-3598'
-  - given-names: Jayesh 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-8455-3598'
+  - given-names: Jayesh
     family-names: Badwaik
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-5252-8179'
-  - given-names: Eric 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-5252-8179'
+  - given-names: Eric
     family-names: Behle
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0001-6616-8867'
-  - given-names: Mathis 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0001-6616-8867'
+  - given-names: Mathis
     family-names: Bode
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0001-9922-9742'
-  - given-names: Thomas 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0001-9922-9742'
+  - given-names: Thomas
     family-names: Breuer
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-3979-4795'
-  - given-names: Daniel 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-3979-4795'
+  - given-names: Daniel
     family-names: Caviedes-Voullième
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0001-7871-7544'
-  - given-names: Mehdi 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0001-7871-7544'
+  - given-names: Mehdi
     family-names: Cherti
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0001-5865-0469'
-  - given-names: Adel 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0001-5865-0469'
+  - given-names: Adel
     family-names: Dabah
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0001-9175-469X'
-  - given-names: Salem El 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0001-9175-469X'
+  - given-names: Salem El
     family-names: Sayed
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-7217-6027'
-  - given-names: Wolfgang 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-7217-6027'
+  - given-names: Wolfgang
     family-names: Frings
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-9463-9264'
-  - given-names: Ana 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-9463-9264'
+  - given-names: Ana
     family-names: Gonzalez-Nicolas
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-2869-8255'
-  - given-names: Eric B. 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-2869-8255'
+  - given-names: Eric B.
     family-names: Gregory
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0001-9408-5719'
-  - given-names: Kaveh  
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0001-9408-5719'
+  - given-names: Kaveh
     family-names: Haghighi Mood
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-8578-4961'
-  - given-names: Thorsten 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-8578-4961'
+  - given-names: Thorsten
     family-names: Hater
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-6249-7169'
-  - given-names: Jenia 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-6249-7169'
+  - given-names: Jenia
     family-names: Jitsev
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-1221-7851'
-  - given-names: Chelsea 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-1221-7851'
+  - given-names: Chelsea
     family-names: John
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-3777-7393'
-  - given-names: Jan H. 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-3777-7393'
+  - given-names: Jan H.
     family-names: Meinke
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-2831-9761'
-  - given-names: Catrin I. 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-2831-9761'
+  - given-names: Catrin I.
     family-names: Meyer
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-9271-6174'
-  - given-names: Pavel 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-9271-6174'
+  - given-names: Pavel
     family-names: Mezentsev
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0009-0000-4114-5482'
-  - given-names: Jan-Oliver 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0009-0000-4114-5482'
+  - given-names: Jan-Oliver
     family-names: Mirus
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0009-0006-7975-1393'
-  - given-names: Stepan 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0009-0006-7975-1393'
+  - given-names: Stepan
     family-names: Nassyr
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-0035-244X'
-  - given-names: Carolin 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-0035-244X'
+  - given-names: Carolin
     family-names: Penke
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-4043-3885'
-  - given-names: Manoel 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-4043-3885'
+  - given-names: Manoel
     family-names: Römmer
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0009-0007-3513-5932'
-  - given-names: Ujjwal 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0009-0007-3513-5932'
+  - given-names: Ujjwal
     family-names: Sinha
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-4609-0940'
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-4609-0940'
   - given-names: Benedikt
     family-names: von St. Vieth
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-5386-633X'
-  - given-names: Olaf 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-5386-633X'
+  - given-names: Olaf
     family-names: Stein
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0002-6684-7103'
-  - given-names: Estela 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0002-6684-7103'
+  - given-names: Estela
     family-names: Suarez
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-0748-7264'
-  - given-names: Dennis 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-0748-7264'
+  - given-names: Dennis
     family-names: Willsch
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-3855-5100'
-  - given-names: Ilya 
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-3855-5100'
+  - given-names: Ilya
     family-names: Zhukov
-    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
-    orcid: '0000-0003-4650-3773'
+    affiliation: 'Forschungszentrum Jülich, Jülich Supercomputing Centre'
+    orcid: 'https://orcid.org/0000-0003-4650-3773'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.12737073
     description: Base Zenodo identifier (version-independent)
+  - type: doi
+    value: 10.1109/SC41406.2024.00038
+    description: SC24 paper about this suite
 repository-code: 'https://github.com/FZJ-JSC/jubench/'
+abstract: >-
+  Meta-repository for the JUPITER Benchmark Suite, a suite
+  of open-source benchmark definitions in JUBE of benchmarks
+  used for the procurement of JUPITER – and other purposes.
+  Each benchmark is provided with extensive description in
+  their respective individual repository. Background,
+  method, and results have been published alongside the repo
+  as an SC24 paper.
+keywords:
+  - HPC
+  - Benchmarking
+  - GPU
+  - GPU Computing
+  - JSC
+  - SC24
+  - Benchmarks
 license: MIT
 date-released: '2024-07-13'
